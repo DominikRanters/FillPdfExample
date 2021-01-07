@@ -33,11 +33,10 @@ namespace PdfTest
                 var form = pdfStamper.AcroFields;
 
                 // foreach (var key in keys) Console.WriteLine(key);
-                form.SetFieldProperty(PdfKeys.document_type, "textcolor", new BaseColor(120, 120, 120), null);
-                form.SetFieldProperty(PdfKeys.document_type, "textsize", 14f, null);
-                form.SetField(PdfKeys.document_type, PdfValues.Original);
-              
-                // form.Fields[PdfKeys.document_type].
+                
+                // form.SetFieldProperty(PdfKeys.document_type, "textcolor", new BaseColor(120, 120, 120), null);
+                // form.SetFieldProperty(PdfKeys.document_type, "textsize", 14f, null);
+                // form.SetField(PdfKeys.document_type, PdfValues.Original);
                 
                 form.SetField(PdfKeys.q_fever_false, PdfValues.True);
                 form.SetField(PdfKeys.q_cronic_immuno_true, PdfValues.True);
@@ -94,6 +93,8 @@ namespace PdfTest
 
         private class PdfKeys
         {
+            
+            // Feste Keys der Formularfelder (werden beim erstellen des Formulars festgelegt)
             public static string q_cronic_immuno_text = "q_cronic_immuno_text";
             public static string q_allergy_text = "q_allergy_text";
             public static string q_allergy_reaction_text = "q_allergy_reaction_text";
@@ -127,9 +128,8 @@ namespace PdfTest
         
         private class PdfValues
         {
+            // Fester string "Yes", um Checkboxen checked zu setzen
             public static string True = "Yes";
-            public static string Original = "ORIGINAL";
-            public static string Duplicate = "DUPLIKAT";
         }
         
     }
