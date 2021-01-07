@@ -1,0 +1,10 @@
+C:\Users\dranters\Desktop\PdfTest\PdfTest\bin\Debug\netcoreapp2.1\PdfTest.deps.json
+C:\Users\dranters\Desktop\PdfTest\PdfTest\bin\Debug\netcoreapp2.1\PdfTest.runtimeconfig.json
+C:\Users\dranters\Desktop\PdfTest\PdfTest\bin\Debug\netcoreapp2.1\PdfTest.runtimeconfig.dev.json
+C:\Users\dranters\Desktop\PdfTest\PdfTest\bin\Debug\netcoreapp2.1\PdfTest.dll
+C:\Users\dranters\Desktop\PdfTest\PdfTest\bin\Debug\netcoreapp2.1\PdfTest.pdb
+C:\Users\dranters\Desktop\PdfTest\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.csprojAssemblyReference.cache
+C:\Users\dranters\Desktop\PdfTest\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.AssemblyInfoInputs.cache
+C:\Users\dranters\Desktop\PdfTest\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.AssemblyInfo.cs
+C:\Users\dranters\Desktop\PdfTest\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.dll
+C:\Users\dranters\Desktop\PdfTest\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.pdb
