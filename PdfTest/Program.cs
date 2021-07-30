@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 using iTextSharp.text;
 using iTextSharp.text.pdf;
 
@@ -37,6 +38,30 @@ namespace PdfTest
                 // form.SetFieldProperty(PdfKeys.document_type, "textcolor", new BaseColor(120, 120, 120), null);
                 // form.SetFieldProperty(PdfKeys.document_type, "textsize", 14f, null);
                 // form.SetField(PdfKeys.document_type, PdfValues.Original);
+
+                
+                
+                PushbuttonField ad4 = form.GetNewPushbuttonFromField("ButtonSubmit");
+                ad4.Layout = PushbuttonField.LAYOUT_ICON_ONLY;
+                ad4.ProportionalIcon = true;
+                ad4.Image = Image.GetInstance(@"C:\dev\Download.jfif");
+                ad4.BackgroundColor = BaseColor.WHITE;
+                ad4.BorderWidth = 0;
+                form.ReplacePushbuttonField("ButtonSubmit", ad4.Field);
+                
+                foreach (var  (key, value) in form.Fields)
+                {
+                    Console.WriteLine(key);
+                }
+                
+                // PushbuttonField ad = form.GetNewPushbuttonFromField("ButtonSubmit");
+                // var img = Image.GetInstance(@"C:\dev\Logo.png");
+                // ad.Image = img;
+                // form.ReplacePushbuttonField("ButtonSubmit", ad.Field);
+                
+                // PushbuttonField ad2 = form.GetNewPushbuttonFromField("ButtonReset");
+                // ad2.Image  = Image.GetInstance(@"C:\dev\Logo.png");
+                // form.ReplacePushbuttonField("ButtonReset", ad2.Field);
                 
                 form.SetField(PdfKeys.q_fever_false, PdfValues.True);
                 form.SetField(PdfKeys.q_cronic_immuno_true, PdfValues.True);

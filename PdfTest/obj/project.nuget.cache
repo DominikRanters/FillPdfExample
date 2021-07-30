@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FjTLfIgfIeVh8iRK4IwBEb3tIMmY3Vs+2qhQUUiwiI8Z2RxGsMg2LWXp3fi8VkefGkDrMFL1baLJdkN/33xMpg==",
+  "dgSpecHash": "7BQMIaVIA6Ent2jBbEEW6y8WM1ZB/tXH/1PIvIc3lYjsuEE8+rvHcq6C6uEfbeZxEI3RjFYCt/8FyphiuU2RZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dranters\\Desktop\\PdfTest\\PdfTest\\PdfTest.csproj",
+  "projectFilePath": "C:\\dev\\Examples\\FillPdfExample\\PdfTest\\PdfTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dranters\\.nuget\\packages\\bouncycastle\\1.8.6.1\\bouncycastle.1.8.6.1.nupkg.sha512",
     "C:\\Users\\dranters\\.nuget\\packages\\itextsharp\\5.5.13.2\\itextsharp.5.5.13.2.nupkg.sha512",
