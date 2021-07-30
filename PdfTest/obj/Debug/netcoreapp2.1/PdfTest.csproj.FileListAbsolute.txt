@@ -8,3 +8,15 @@ C:\Users\dranters\Desktop\PdfTest\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.Assemb
 C:\Users\dranters\Desktop\PdfTest\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.AssemblyInfo.cs
 C:\Users\dranters\Desktop\PdfTest\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.dll
 C:\Users\dranters\Desktop\PdfTest\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.pdb
+C:\dev\Examples\FillPdfExample\PdfTest\bin\Debug\netcoreapp2.1\PdfTest.deps.json
+C:\dev\Examples\FillPdfExample\PdfTest\bin\Debug\netcoreapp2.1\PdfTest.runtimeconfig.json
+C:\dev\Examples\FillPdfExample\PdfTest\bin\Debug\netcoreapp2.1\PdfTest.runtimeconfig.dev.json
+C:\dev\Examples\FillPdfExample\PdfTest\bin\Debug\netcoreapp2.1\PdfTest.dll
+C:\dev\Examples\FillPdfExample\PdfTest\bin\Debug\netcoreapp2.1\PdfTest.pdb
+C:\dev\Examples\FillPdfExample\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.csprojAssemblyReference.cache
+C:\dev\Examples\FillPdfExample\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.AssemblyInfoInputs.cache
+C:\dev\Examples\FillPdfExample\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.AssemblyInfo.cs
+C:\dev\Examples\FillPdfExample\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.csproj.CoreCompileInputs.cache
+C:\dev\Examples\FillPdfExample\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.dll
+C:\dev\Examples\FillPdfExample\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.pdb
+C:\dev\Examples\FillPdfExample\PdfTest\obj\Debug\netcoreapp2.1\PdfTest.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dranters\\Desktop\\PdfTest\\PdfTest\\PdfTest.csproj": {}
+    "C:\\dev\\Examples\\FillPdfExample\\PdfTest\\PdfTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dranters\\Desktop\\PdfTest\\PdfTest\\PdfTest.csproj": {
+    "C:\\dev\\Examples\\FillPdfExample\\PdfTest\\PdfTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dranters\\Desktop\\PdfTest\\PdfTest\\PdfTest.csproj",
+        "projectUniqueName": "C:\\dev\\Examples\\FillPdfExample\\PdfTest\\PdfTest.csproj",
         "projectName": "PdfTest",
-        "projectPath": "C:\\Users\\dranters\\Desktop\\PdfTest\\PdfTest\\PdfTest.csproj",
+        "projectPath": "C:\\dev\\Examples\\FillPdfExample\\PdfTest\\PdfTest.csproj",
         "packagesPath": "C:\\Users\\dranters\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dranters\\Desktop\\PdfTest\\PdfTest\\obj\\",
+        "outputPath": "C:\\dev\\Examples\\FillPdfExample\\PdfTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -68,7 +70,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }
